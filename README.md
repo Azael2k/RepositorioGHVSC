@@ -1,1 +1,1 @@
-# RepositorioGHVSC, Saludos buenas tardes, esto es una prueba.
+# RepositorioGHVSC, Saludos buenos dias, esto es una prueba.
